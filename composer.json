@@ -1,15 +1,11 @@
 {
-  "name": "nek/school-test-project",
-  "license": "MIT",
-  "type": "project",
-  "description": "This is a project to help students learn test",
+  "name":   "nek/school-test-project",
+  "licence":  "MIT",
+  "type":  "project",
+  "description":  "This is a project to help students learn tests",
   "autoload": {
-    "psr-4": {"MMI\\": "src"}
+    "psr-4":{"MIM\\": "src/" }
   },
-  "require":{
-
-  },
-  "require-dev":{
-
-  }
+  "require": {},
+  "require-dev": {}
 }
